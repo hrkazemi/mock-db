@@ -1,9 +1,36 @@
 {
   "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+    {
+      "id": 1,
+      "title": "jafar abad",
+      "author": "typicode"
+    }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
   ],
-  "profile": { "name": "typicode" }
+  "profile": {
+    "name": "typicode"
+  },
+  "users": [
+    {
+      "username": "gholi2",
+      "password": "3333",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "username": "saeed",
+      "password": "123"
+    },
+    {
+      "id": 3,
+      "username": "hamid",
+      "password": "111"
+    }
+  ]
 }
