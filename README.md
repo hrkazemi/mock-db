@@ -1,3 +1,8 @@
+npm start
+
+
+API:
+
 DELETE / PUT
 http://localhost:3000/users/{id}
 
