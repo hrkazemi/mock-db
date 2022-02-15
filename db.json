@@ -3,19 +3,10 @@
     {
       "id": 1,
       "title": "jafar abad",
-      "author": "typicode"
+      "author": "typicode",
+      "content": "abcdddd"
     }
   ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
   "users": [
     {
       "username": "gholi2",
@@ -111,6 +102,21 @@
       "id": 1644869428676,
       "username": "abolhasan",
       "password": "1357"
+    },
+    {
+      "id": 1644952339834,
+      "username": "akbar",
+      "password": "1400"
+    },
+    {
+      "id": 1644952420906,
+      "username": "akbar",
+      "password": "1400"
+    },
+    {
+      "id": 1644952529393,
+      "username": "",
+      "password": ""
     }
   ]
 }
